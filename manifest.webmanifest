@@ -1,0 +1,13 @@
+{
+  "name": "Технический английский",
+  "short_name": "Тех. англ",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "img/emblem.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
